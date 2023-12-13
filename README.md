@@ -10,4 +10,4 @@ Technical Aspects:
 
 -> Data pre-processing and augementation are crucial steps in traing robust deep learning models. The presence of files like data_preparationg and data_agumentation. 
 
-![](https://github.com/shiv2398/Threat_detection_using-Deep_learning/blob/main/How%20to%20defend%20against%20a%20knife%20attack.gif)
+![](https://github.com/tusharxoxoxo/curly-octo-sniffle/blob/main/How%20to%20defend%20against%20a%20knife%20attack.gif)
