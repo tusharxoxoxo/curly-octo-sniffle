@@ -1,6 +1,6 @@
 This project explores the use of deep learning for threat detection, a crucial area in today's security landscape.
 
-Potential Applications:
+# Potential Applications:
 
 -> Physical security: The Project mentions "How to defend agaist a knife.gif", suggesting a potential focus on real-time threat detection in physical environments. This could involve video survelence, anomaly detection in sensor data, or even robotic response system.
 
